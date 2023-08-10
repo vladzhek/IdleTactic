@@ -1,0 +1,19 @@
+{
+    "name": "Slime.Configs",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a970826d62137cc46a56f758ce499b41",
+        "GUID:2fcef159114f2a547a1c25656dc5526b",
+        "GUID:49a9625169c6cd94d96273391ea7a8f8",
+        "GUID:cbbae10bdc3faed4b860214b4519eb83"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

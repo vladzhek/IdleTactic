@@ -1,0 +1,19 @@
+{
+    "name": "Slime.AbstractLayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cbbae10bdc3faed4b860214b4519eb83",
+        "GUID:80ba3091d7d5a3e49bdc3260a2d3c2fa",
+        "GUID:a970826d62137cc46a56f758ce499b41",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Slime.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:acbbd84bedcfe0b4883e90444c3b3bdd",
+        "GUID:49a9625169c6cd94d96273391ea7a8f8",
+        "GUID:2fcef159114f2a547a1c25656dc5526b",
+        "GUID:a970826d62137cc46a56f758ce499b41",
+        "GUID:cbbae10bdc3faed4b860214b4519eb83",
+        "GUID:80ba3091d7d5a3e49bdc3260a2d3c2fa",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:12a8cc1d899033f48be26826609197b4",
+        "GUID:2cb5e40301573434fab0670170c057e5",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Slime.Data",
+    "rootNamespace": "",
+    "references": [
+        "GUID:80ba3091d7d5a3e49bdc3260a2d3c2fa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
